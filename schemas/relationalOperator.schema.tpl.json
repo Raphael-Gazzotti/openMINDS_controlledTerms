@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:RelationalOperator",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
